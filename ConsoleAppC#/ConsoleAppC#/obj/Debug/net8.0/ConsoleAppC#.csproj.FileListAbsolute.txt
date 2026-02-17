@@ -1,0 +1,14 @@
+C:\Users\24_ИП-191к\source\repos\ConsoleAppC#\ConsoleAppC#\bin\Debug\net8.0\ConsoleAppC#.exe
+C:\Users\24_ИП-191к\source\repos\ConsoleAppC#\ConsoleAppC#\bin\Debug\net8.0\ConsoleAppC#.deps.json
+C:\Users\24_ИП-191к\source\repos\ConsoleAppC#\ConsoleAppC#\bin\Debug\net8.0\ConsoleAppC#.runtimeconfig.json
+C:\Users\24_ИП-191к\source\repos\ConsoleAppC#\ConsoleAppC#\bin\Debug\net8.0\ConsoleAppC#.dll
+C:\Users\24_ИП-191к\source\repos\ConsoleAppC#\ConsoleAppC#\bin\Debug\net8.0\ConsoleAppC#.pdb
+C:\Users\24_ИП-191к\source\repos\ConsoleAppC#\ConsoleAppC#\obj\Debug\net8.0\ConsoleAppC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24_ИП-191к\source\repos\ConsoleAppC#\ConsoleAppC#\obj\Debug\net8.0\ConsoleAppC#.AssemblyInfoInputs.cache
+C:\Users\24_ИП-191к\source\repos\ConsoleAppC#\ConsoleAppC#\obj\Debug\net8.0\ConsoleAppC#.AssemblyInfo.cs
+C:\Users\24_ИП-191к\source\repos\ConsoleAppC#\ConsoleAppC#\obj\Debug\net8.0\ConsoleAppC#.csproj.CoreCompileInputs.cache
+C:\Users\24_ИП-191к\source\repos\ConsoleAppC#\ConsoleAppC#\obj\Debug\net8.0\ConsoleAppC#.dll
+C:\Users\24_ИП-191к\source\repos\ConsoleAppC#\ConsoleAppC#\obj\Debug\net8.0\refint\ConsoleAppC#.dll
+C:\Users\24_ИП-191к\source\repos\ConsoleAppC#\ConsoleAppC#\obj\Debug\net8.0\ConsoleAppC#.pdb
+C:\Users\24_ИП-191к\source\repos\ConsoleAppC#\ConsoleAppC#\obj\Debug\net8.0\ConsoleAppC#.genruntimeconfig.cache
+C:\Users\24_ИП-191к\source\repos\ConsoleAppC#\ConsoleAppC#\obj\Debug\net8.0\ref\ConsoleAppC#.dll
