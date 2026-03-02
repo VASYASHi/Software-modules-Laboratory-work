@@ -1,0 +1,8 @@
+C:\Users\24_ИП-191к\source\repos\Exsel.c#\Exsel.c#\bin\Debug\Exsel.c#.exe.config
+C:\Users\24_ИП-191к\source\repos\Exsel.c#\Exsel.c#\bin\Debug\Exsel.c#.exe
+C:\Users\24_ИП-191к\source\repos\Exsel.c#\Exsel.c#\bin\Debug\Exsel.c#.pdb
+C:\Users\24_ИП-191к\source\repos\Exsel.c#\Exsel.c#\obj\Debug\Exsel.c#.csproj.AssemblyReference.cache
+C:\Users\24_ИП-191к\source\repos\Exsel.c#\Exsel.c#\obj\Debug\Exsel.c#.csproj.ResolveComReference.cache
+C:\Users\24_ИП-191к\source\repos\Exsel.c#\Exsel.c#\obj\Debug\Exsel.c#.csproj.CoreCompileInputs.cache
+C:\Users\24_ИП-191к\source\repos\Exsel.c#\Exsel.c#\obj\Debug\Exsel.c#.exe
+C:\Users\24_ИП-191к\source\repos\Exsel.c#\Exsel.c#\obj\Debug\Exsel.c#.pdb
