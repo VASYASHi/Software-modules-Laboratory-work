@@ -1,0 +1,7 @@
+C:\Users\24_ИП-191к\source\repos\Перегрузка C#\Перегрузка C#\bin\Debug\Перегрузка C#.exe.config
+C:\Users\24_ИП-191к\source\repos\Перегрузка C#\Перегрузка C#\bin\Debug\Перегрузка C#.exe
+C:\Users\24_ИП-191к\source\repos\Перегрузка C#\Перегрузка C#\bin\Debug\Перегрузка C#.pdb
+C:\Users\24_ИП-191к\source\repos\Перегрузка C#\Перегрузка C#\obj\Debug\Перегрузка C#.csproj.AssemblyReference.cache
+C:\Users\24_ИП-191к\source\repos\Перегрузка C#\Перегрузка C#\obj\Debug\Перегрузка C#.csproj.CoreCompileInputs.cache
+C:\Users\24_ИП-191к\source\repos\Перегрузка C#\Перегрузка C#\obj\Debug\Перегрузка C#.exe
+C:\Users\24_ИП-191к\source\repos\Перегрузка C#\Перегрузка C#\obj\Debug\Перегрузка C#.pdb
