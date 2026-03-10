@@ -1,0 +1,7 @@
+C:\Users\24_ИП-191к\source\repos\Делегаты C#\Делегаты C#\bin\Debug\Делегаты C#.exe.config
+C:\Users\24_ИП-191к\source\repos\Делегаты C#\Делегаты C#\bin\Debug\Делегаты C#.exe
+C:\Users\24_ИП-191к\source\repos\Делегаты C#\Делегаты C#\bin\Debug\Делегаты C#.pdb
+C:\Users\24_ИП-191к\source\repos\Делегаты C#\Делегаты C#\obj\Debug\Делегаты C#.csproj.AssemblyReference.cache
+C:\Users\24_ИП-191к\source\repos\Делегаты C#\Делегаты C#\obj\Debug\Делегаты C#.csproj.CoreCompileInputs.cache
+C:\Users\24_ИП-191к\source\repos\Делегаты C#\Делегаты C#\obj\Debug\Делегаты C#.exe
+C:\Users\24_ИП-191к\source\repos\Делегаты C#\Делегаты C#\obj\Debug\Делегаты C#.pdb
